@@ -1,0 +1,3 @@
+[submodule "client/socket-react"]
+	path = client/socket-react
+	url = https://github.com/Y3ASIN/socket-react
